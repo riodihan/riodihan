@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridho Dwi Ramadhan
 - 👀 I’m interested in web develop with laravel, etc.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Backend 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 minatoramakaze@gmail.com
 
